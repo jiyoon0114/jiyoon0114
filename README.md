@@ -1,12 +1,17 @@
 ## Hi there 👋
 
-##### hello
-
-
 <!--
 **jiyoon0114/jiyoon0114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+##### 나이🍰
+만으로 20살 
+
+
+##### 직업😺
+영남대학교 소프트웨어융합 2학년
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
